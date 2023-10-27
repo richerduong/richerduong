@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **Algorithms & Data Structures**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 You can reach me at **duongricher@gmail.com**
 
