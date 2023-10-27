@@ -1,6 +1,6 @@
 <!--[![MasterHead]()]()-->
 <h1 align="center">Hi 👋, I'm Richer Duong</h1>
-<h3 align="center">Aspiring developer from Houston,TX</h3>
+<h3 align="center">Aspiring Software Developer from Houston,TX</h3>
 
 - 🔭 I’m currently working on **my personal portfolio**
 
@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **duongricher@gmail.com**
 
-- ⚡ Fun fact **I love working out!**
+- ⚡ Fun fact: **I love working out!**
 </p>
 
 ## Languages and Tools
