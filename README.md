@@ -61,7 +61,7 @@
   </picture>
 </div>
 
-## Connect with me
+<h3>Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/duong-richer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duong-richer" height="30" width="40" /></a>
