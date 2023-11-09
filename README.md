@@ -22,7 +22,7 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=richerduong&card_width=495&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=richerduong&card_width=495&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&bg_color=161b22"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -36,7 +36,7 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=richerduong&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=richerduong&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161b22"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -50,7 +50,7 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=github_dark"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=dark&background=161b22"
       media="(prefers-color-scheme: dark)"
     />
     <source
