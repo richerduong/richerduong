@@ -17,7 +17,7 @@
 -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-## GitHub Stats
+<h3>GitHub Stats</h3>
 
 <div>
   <picture>
