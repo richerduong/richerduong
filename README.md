@@ -2,6 +2,8 @@
 <h1 align="center">Hello there! I'm Richer Duong</h1>
 <h3 align="center">Aspiring Software Developer from Houston,TX</h3>
 
+<h3>About Me</h3>
+
 - 🔭 I’m currently working on my **portfolio website**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
@@ -9,7 +11,7 @@
 - 📫 You can reach me at **duongricher@gmail.com**
 
 - ⚡ Fun fact: **I love working out!**
-</p>
+
 <!--
 ## Languages and Tools -->
 <!--
