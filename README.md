@@ -1,5 +1,5 @@
 <!--[![MasterHead]()]()-->
-<h1 align="center">Hi 👋, I'm Richer Duong</h1>
+<h1 align="center">Hello there! I'm Richer Duong</h1>
 <h3 align="center">Aspiring Software Developer from Houston,TX</h3>
 
 - 🔭 I’m currently working on my **portfolio website**
