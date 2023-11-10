@@ -17,7 +17,7 @@
 <div>
   <img src="https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=black">
   <img src="https://img.shields.io/badge/-C++-161b22?style=for-the-badge&logo=cplusplus&labelColor=black">
-  <img src="https://img.shields.io/badge/-Java-161b22?style=for-the-badge&logo=oracle&labelColor=black">
+  <img src="https://img.shields.io/badge/-Java-161b22?style=for-the-badge&logo=openjdk&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-161b22?style=for-the-badge&logo=html5&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=css3&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=black">
