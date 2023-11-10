@@ -2,7 +2,7 @@
 <h1 align="center">Hello there! I'm Richer Duong</h1>
 <h3 align="center">Student, Developer, and Aspiring Software Engineer</h3>
 
-<h3>About Me</h3>
+<h3>🌎 About Me</h3>
 
 - 🔭 I’m currently working on my **Portfolio Website**.
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I love working out**!
 
-<h3>Technical Skills</h3>
+<h3>🛠️ Technical Skills</h3>
 
 <div>
   <img src="https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=black">
@@ -24,7 +24,7 @@
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h3>GitHub Stats</h3>
+<h3>📈 GitHub Stats</h3>
 
 <div>
   <picture>
@@ -68,7 +68,7 @@
   </picture>
 </div>
 
-<h3>Connect with me</h3>
+<h3>🤝 Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/duong-richer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duong-richer" height="30" width="40" /></a>
