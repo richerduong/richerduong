@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=css3&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=typescript&labelColor=black">
+  <img src="https://img.shields.io/badge/shell_script-161b22?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-R-161b22?style=for-the-badge&logo=r&labelColor=black">
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
