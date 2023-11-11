@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-HTML-161b22?style=for-the-badge&logo=html5&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=css3&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=typescript&labelColor=black">
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
