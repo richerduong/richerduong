@@ -24,8 +24,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=typescript&labelColor=black">
   <img src="https://img.shields.io/badge/react-161b22?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black">
+  <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/node.js-161b22?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/shell_script-161b22?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-R-161b22?style=for-the-badge&logo=r&labelColor=black">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/RStudio-161b22?style=for-the-badge&logo=rstudio&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/figma-161b22?style=for-the-badge&logo=figma&logoColor=white&labelColor=black">
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
