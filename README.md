@@ -16,6 +16,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=black">
+  <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-C++-161b22?style=for-the-badge&logo=cplusplus&labelColor=black">
   <img src="https://img.shields.io/badge/-Java-161b22?style=for-the-badge&logo=openjdk&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-161b22?style=for-the-badge&logo=html5&labelColor=black">
