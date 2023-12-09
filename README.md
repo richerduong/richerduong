@@ -10,7 +10,7 @@
 
 - 📖 I'm currently reading **Deep Work by Cal Newport**.
 
-- ⚡ Fun fact: **I developed a custom AI-based chess engine during my sophomore year, which competes in online tournaments, showcasing my advanced skills in algorithms and AI**.
+<!--- ⚡ Fun fact: ****.-->
 
 <h3>🛠️ Technical Skills</h3>
 
