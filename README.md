@@ -4,7 +4,7 @@
 
 <h3>🌎 About Me</h3>
 
-- 🔭 I’m currently working on my **Portfolio Website**.
+- 🔭 I’m currently working on **a new project**.
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**.
 
