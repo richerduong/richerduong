@@ -4,11 +4,7 @@
 
 <h3>🌎 About Me</h3>
 
-- 🔭 I’m currently working on **FinanceFlow AI**.
-
-- 🌱 I’m currently learning **Data Structures & Algorithms**.
-
-- 📖 I'm currently reading **Deep Work by Cal Newport**.
+🎓 I’m currently studying **Computer Science** with a minor in **Mathematics** at the **University of Houston**.
 
 <!--- ⚡ Fun fact: ****.-->
 
