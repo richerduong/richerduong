@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=black">
   <img src="https://img.shields.io/badge/RStudio-161b22?style=for-the-badge&logo=rstudio&labelColor=black">
   <img src="https://img.shields.io/badge/figma-161b22?style=for-the-badge&logo=figma&labelColor=black">
+  <img src="https://img.shields.io/badge/bootstrap-161b22?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
 </div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
