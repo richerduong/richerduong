@@ -10,6 +10,9 @@
 
 <h3>🛠️ Technical Skills</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,mysql,html,css)](https://skillicons.dev)
+
+<!--
 <div>
   <img src="https://img.shields.io/badge/-Python-161b22?style=for-the-badge&logo=python&labelColor=black">
   <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&labelColor=black">
@@ -20,7 +23,6 @@
   <img src="https://img.shields.io/badge/-CSS-161b22?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-161b22?style=for-the-badge&logo=javascript&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-161b22?style=for-the-badge&logo=typescript&labelColor=black">
-  
   <img src="https://img.shields.io/badge/react-161b22?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black">
   <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&labelColor=black">
   <img src="https://img.shields.io/badge/express.js-161b22?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black">
@@ -29,12 +31,12 @@
   <img src="https://img.shields.io/badge/shell_script-161b22?style=for-the-badge&logo=gnu-bash&labelColor=black">
   <img src="https://img.shields.io/badge/-R-161b22?style=for-the-badge&logo=r&logoColor=4285F4&labelColor=black">
   <img src="https://img.shields.io/badge/azure-161b22?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6&labelColor=black">
-  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=black">
   <img src="https://img.shields.io/badge/RStudio-161b22?style=for-the-badge&logo=rstudio&labelColor=black">
   <img src="https://img.shields.io/badge/figma-161b22?style=for-the-badge&logo=figma&labelColor=black">
   <img src="https://img.shields.io/badge/bootstrap-161b22?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
 </div>
+-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <h3>📈 GitHub Stats</h3>
