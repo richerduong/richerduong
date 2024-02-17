@@ -11,7 +11,7 @@
 
 <h3>🛠️ Technical Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,react,nodejs,mysql,html,css)](https://skillicons.dev)
 
 <!--
 <div>
