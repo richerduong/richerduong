@@ -4,7 +4,8 @@
 
 <h3>🌎 About Me</h3>
 
-🎓 I’m currently studying **Computer Science** with a minor in **Mathematics** at the **University of Houston**.
+- Software Engineer Intern at NASA 🚀
+- Computer Science Student with a minor in Mathematics at the University of Houston 🎓
 
 <!--- ⚡ Fun fact: ****.-->
 
