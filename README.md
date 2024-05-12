@@ -4,7 +4,7 @@
 
 <h3>🌎 About Me</h3>
 
-- Software Engineer Intern at NASA 🚀
+- Prev Software Engineer Intern at NASA 🚀
 - Incoming Software Engineer Intern at HP 💻
 - Computer Science Student with a minor in Mathematics at the University of Houston 🎓
 
