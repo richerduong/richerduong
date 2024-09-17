@@ -1,6 +1,6 @@
 <!--[![MasterHead]()]()-->
 <h1 align="center">Hello there! I'm Richer Duong</h1>
-<h3 align="center">Student, Developer, and Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3>🌎 About Me</h3>
 
