@@ -4,6 +4,7 @@
 
 <h3>🌎 About Me</h3>
 
+- Software Engineer at Pinterest 📌
 - Prev Data Engineering Intern at HP 💻
 - Prev Software Engineering Intern at NASA 🚀
 - Computer Science Student with a minor in Mathematics at the University of Houston 🎓
