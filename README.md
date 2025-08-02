@@ -43,7 +43,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <h3>📈 GitHub Stats</h3>
-
+<!--
 <div>
   <picture>
     <source
@@ -55,6 +55,21 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img alt="Richer's GitHub Stats" />
+  </picture>
+</div>
+-->
+
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=dark&background=161b22"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=default&background=f6f8fa"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="Richer's GitHub Streak Stats">
   </picture>
 </div>
 
@@ -69,20 +84,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img alt="Richer's Most Used Languages">
-  </picture>
-</div>
-
-<div>
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=dark&background=161b22"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=richerduong&hide_border=true&ring=2F81F7&theme=default&background=f6f8fa"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="Richer's GitHub Streak Stats">
   </picture>
 </div>
 
